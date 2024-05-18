@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 let userInput = await inquirer.prompt({
     message: "Please type in small paragraph: ",

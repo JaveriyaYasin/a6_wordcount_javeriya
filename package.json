@@ -1,10 +1,10 @@
 {
-  "name": "a6_wordcount_javeriya",
-  "version": "1.0.0",
+  "name": "a6_wordcounting_javeriya",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "node.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
